@@ -2,6 +2,6 @@
 
 - 👋 Hi, I’m @ph-value, call me 산도(sando)
 - 👀 I’m interested in mobile application developement
-- 🌱 I’m currently learning Kotline for android
+- 🌱 I’m currently learning Kotlin for android
 - 💞️ I’m looking to collaborate on translate (EN <-> KR)
 - 📫 How to reach me EMAIL or DM
