@@ -2,6 +2,6 @@
 
 - 👋 Hi, I’m @ph-value, call me 산도(sando)
 - 👀 I have experience in mobile application development
-- 🌱 I'm studying to become a data engineer.
+- 🌱 I'm currently focusing on Flutter development
 - 💞️ I’m looking to collaborate on translate (EN <-> KR)
 - 📫 How to reach me EMAIL or DM
